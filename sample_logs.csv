@@ -1,4 +1,0 @@
-timestamp,source_ip,attempts_per_minute,failed_success_ratio,unique_usernames
-2023-10-01 10:00:01,192.168.1.5,2,0.1,1
-2023-10-01 10:05:22,10.0.0.45,85,0.95,30
-2023-10-01 10:10:00,172.16.2.1,1,0.0,1
